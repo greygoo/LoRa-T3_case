@@ -1,0 +1,3 @@
+[submodule "basic_case-parameterized"]
+	path = basic_case-parameterized
+	url = https://github.com/greygoo/basic_case-parameterized.git
