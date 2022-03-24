@@ -1,5 +1,5 @@
 $fn=32;
-include <../basic_case-parameterized/basic_case-parameterized.scad>
+include <basic_case-parameterized/basic_case-parameterized.scad>
 
 // choose part to render
 //part                = "case_inlay";
