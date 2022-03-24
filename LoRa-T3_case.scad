@@ -3,11 +3,11 @@ include <basic_case-parameterized/basic_case-parameterized.scad>
 
 // choose part to render
 //part                = "case_inlay";
-part                = "case_all";
+//part                = "case_all";
 //part                = "case_cover";
 //part                = "case_bottom";
 
-T3(part=part,cuts=cuts_t3);
+//T3(part=part,cuts=cuts_t3);
 
 // Fixed values - do not change
 dim_t3_board        = [65,27,1.25];
